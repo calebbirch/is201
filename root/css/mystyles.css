@@ -1,0 +1,28 @@
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    font-family:Courier;
+    background-color: lightgray;
+    color: dark grey; /* font color */
+}
+
+.div1 {
+    color: blue;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 16px;
+    padding: 10px;
+  }
+  .div2 {
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    padding: 10px;
+  }
+  .div3 {
+    color: burlywood;
+    font-family: fantasy;  
+    font-size: 16px;
+    padding: 10px;
+  }
